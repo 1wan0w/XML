@@ -1,1 +1,27 @@
-
+<bug_report>
+  <head>
+    <id>br1</id>
+    <project>weather</project>
+    <status>new</status>
+    <reporter>iwanow</reporter>
+    <submite_date>09.05.2023</submite_date>
+    <environment>ios 16.4.1</environment>
+  </head>
+  
+  <body>
+    <summary>lock screen widget doesn't auto update</summary>
+    <str>
+      <1>choose ls widget and install it</1>
+      <2>open the ls and review installed widget</2>
+      <3>tap on this widget</3>
+      <4>change country and city</4>
+    </str>
+    <er>the weather forecast changes</er>
+    <ar>the weather doesn't change</ar>
+  </body>
+  
+  <footer>
+    <requirements>frq 1.2.5</requirements>
+    <severity>major</severity>
+  </footer>
+</bug_report>
