@@ -1,14 +1,14 @@
 <...>
 
-<who am i?>
+<whoami?>
 	<name>Vlad</name>
 	<surname>Ivanov</surname>
 	<age>22</age>
-</who am i?>
+</whoami?>
 
-<something else>
+<somethingelse>
 	<number of pets>1</number of pets>
 	<desired salary>500$</desired salary>
-</something else>
+</somethingelse>
 
 </...>
