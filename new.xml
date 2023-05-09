@@ -1,4 +1,4 @@
-<...>
+<bio>
 
 <whoami?>
 	<name>Vlad</name>
@@ -7,8 +7,8 @@
 </whoami?>
 
 <somethingelse>
-	<number of pets>1</number of pets>
-	<desired salary>500$</desired salary>
+	<numberofpets>1</numberofpets>
+	<desired_salary>500$</desired_salary>
 </somethingelse>
 
-</...>
+</bio>
