@@ -1,5 +1,5 @@
 **XML<br>
- 4. Создать внешний репозиторий c названием XML -> `GitHub>Repositories>New "XML" repositories`<br>
+ 4. Создать внешний репозиторий c названием XML **->** `GitHub>Repositories>New "XML" repositories`<br>
  5. Клонировать репозиторий XML на локальный компьютер -> `git clone ssh-link`<br>
  6. Внутри локального XML создать файл “new.xml” -> `touch new.xml`<br>
  7. Добавить файл под гит -> `git add new.xml`<br>
